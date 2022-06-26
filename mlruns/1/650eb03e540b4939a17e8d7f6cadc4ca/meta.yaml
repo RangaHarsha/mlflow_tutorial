@@ -1,0 +1,15 @@
+artifact_uri: mlruns/1/650eb03e540b4939a17e8d7f6cadc4ca/artifacts
+end_time: 1655643761175
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: 650eb03e540b4939a17e8d7f6cadc4ca
+run_uuid: 650eb03e540b4939a17e8d7f6cadc4ca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1655643756782
+status: 3
+tags: []
+user_id: harsha
